@@ -17,7 +17,7 @@ layout.split_column(
     Layout(name = "Footer")
     )
 
-layout["Body"].split_row(
+layout.split_row(
     Layout(name = "Right"), Layout(name = "Left")
     )
 layout["Left"].split(Layout(name = "box1"), Layout(name = "box2"))
