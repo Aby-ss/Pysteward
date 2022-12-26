@@ -1,1 +1,3 @@
-Name Role Status Salary Joined_at
+Williams Driver Clocked_In $300 25-12-18
+James Accountant Clocked_Out $5000 27-5-19
+Rodrygo Accountant Clocked_Out $5500 25-6-15
